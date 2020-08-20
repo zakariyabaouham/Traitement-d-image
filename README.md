@@ -243,6 +243,21 @@ Donc `le seuillage global` donne plusieurs informations que l`e seuillage fixe` 
 
 ![Q6](https://user-images.githubusercontent.com/38400126/90770491-c5ae1900-e2e9-11ea-94e5-f77baa8969e1.png)
 
+![Q7](https://user-images.githubusercontent.com/38400126/90771655-8680c780-e2eb-11ea-8165-d7dce75b056c.png)
+
+On réalise `une synthèse additive` lorsque l'on `superpose plusieurs faisceaux de lumières colorées`.
+`La synthèse additive` utilise généralement trois lumières colorées : `une rouge, une verte et une bleue (RVB ou RGB en anglais pour Red, Green, Blue)`. L'addition de ces trois lumières colorées en proportions convenables donne la lumière blanche. L'absence de lumière donne du noir.
+
+Un vidéo projecteur projette l'image de trois rectangles de couleur R, V et B sur trois miroirs qui permettent de projeter ces trois couleurs au même endroit sur un écran.
+En réglant la luminosité des trois couleurs, on réalise la synthèse additive de nombreuses couleurs.
+
+![Q10](https://user-images.githubusercontent.com/38400126/90773394-ba5cec80-e2ed-11ea-94e3-f563fc2c0258.png)
+![Q](https://user-images.githubusercontent.com/38400126/90773699-36573480-e2ee-11ea-857e-8b930906cf60.png)
+
+![QQ](https://user-images.githubusercontent.com/38400126/90773801-61da1f00-e2ee-11ea-96af-d9f102372951.png)
+![PBM](https://user-images.githubusercontent.com/38400126/90774371-4ae7fc80-e2ef-11ea-87f4-cd8c95b38d4a.png)
+![exemples](https://user-images.githubusercontent.com/38400126/90774376-4d4a5680-e2ef-11ea-8627-4efe8c26e909.png)
+
 
 
 
