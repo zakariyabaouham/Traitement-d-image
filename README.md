@@ -273,6 +273,18 @@ Pour `ré-échantillonner` une image numérique, il faut construire implicitemen
 ![1](https://user-images.githubusercontent.com/38400126/90777763-c51a8000-e2f3-11ea-9b91-caefde38d5db.png)
 ![2](https://user-images.githubusercontent.com/38400126/90777768-c5b31680-e2f3-11ea-9341-b0f0699e9af6.png)
 
+![Q16](https://user-images.githubusercontent.com/38400126/90789177-80e0ad00-e2fe-11ea-90a6-f6a558bdf860.png)
+![Q17](https://user-images.githubusercontent.com/38400126/90789176-80e0ad00-e2fe-11ea-93f0-aaf00007c86d.png)
+
+Espace des fréquences spatiales :
+À l’instar des signaux temporels, on définit la transformée de Fourier spatiale d’une image 2D par.
+
+La notion de transformée de Fourier à deux dimensions est une généralisation de celle à une dimension.
+
+`Soit f(x,y) une fonction à deux variables représentant l'intensité d'une image au point d'abscisse x et d'ordonnée y. La transformée de Fourier de cette image permet de passer d'une représentation spatiale à la représentation de l’image dans le domaine fréquentiel. Elle est donnée par :`
+
+![18](https://user-images.githubusercontent.com/38400126/90792849-e9ca2400-e302-11ea-820a-3df77b796c79.png)
+
 
 
 
