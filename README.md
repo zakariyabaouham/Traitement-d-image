@@ -293,6 +293,11 @@ La notion de transformée de Fourier à deux dimensions est une généralisation
 
 ![22](https://user-images.githubusercontent.com/38400126/90795445-f8fea100-e305-11ea-8f7e-643a58888eea.png)
 
+![1](https://user-images.githubusercontent.com/38400126/90796152-dcaf3400-e306-11ea-95bd-67c238b55c4d.png)
+![2](https://user-images.githubusercontent.com/38400126/90796164-de78f780-e306-11ea-9c08-5ef307ea4c5e.png)
+![3](https://user-images.githubusercontent.com/38400126/90796868-c48be480-e307-11ea-8336-0ca31c575f8d.png)
+
+
 
 
 
