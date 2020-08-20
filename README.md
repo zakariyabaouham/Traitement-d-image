@@ -258,6 +258,22 @@ En réglant la luminosité des trois couleurs, on réalise la synthèse additive
 ![PBM](https://user-images.githubusercontent.com/38400126/90774371-4ae7fc80-e2ef-11ea-87f4-cd8c95b38d4a.png)
 ![exemples](https://user-images.githubusercontent.com/38400126/90774376-4d4a5680-e2ef-11ea-8627-4efe8c26e909.png)
 
+![Q12](https://user-images.githubusercontent.com/38400126/90774977-2ccecc00-e2f0-11ea-8647-96e70f60da34.png)
+
+![filtreSpatioal](https://user-images.githubusercontent.com/38400126/90776519-1a559200-e2f2-11ea-897c-398e3144777c.png)
+![filtrage2](https://user-images.githubusercontent.com/38400126/90776523-1c1f5580-e2f2-11ea-9d54-dc75296196aa.png)
+
+![Q15](https://user-images.githubusercontent.com/38400126/90777316-27bf4c00-e2f3-11ea-90a0-dfa830c7ccad.png)
+
+#### numérisation de l’image
+`filtre de reconstruction idéal`
+Pour `ré-échantillonner` une image numérique, il faut construire implicitement sa `version analogique` :
+`Le spectre du signal échantillonné est une répétition infinie du spectre de I(x , y ). Pour reconstruire ce dernier, il suffit d’appliquer à I e (x , y ) un filtre spatial passe-bas et appliquer ensuite la transformé de Fourier inverse pour récupérer I(x , y ).`
+
+![1](https://user-images.githubusercontent.com/38400126/90777763-c51a8000-e2f3-11ea-9b91-caefde38d5db.png)
+![2](https://user-images.githubusercontent.com/38400126/90777768-c5b31680-e2f3-11ea-9341-b0f0699e9af6.png)
+
+
 
 
 
